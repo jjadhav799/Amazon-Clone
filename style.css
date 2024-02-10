@@ -24,7 +24,7 @@
 }
 .logo
 {
-    background-image: url(image/amazon_logo.png);
+    background-image: url(amazon_logo.png);
     height: 50px;
     width: 113px;
     background-size: cover;
@@ -310,7 +310,7 @@ ul{
 }
 
 .logo{
-    background-image: url(Image/amazon_logo.png);
+    background-image: url(amazon_logo.png);
     height: 50px;
     width: 113px;
     background-size: cover;
